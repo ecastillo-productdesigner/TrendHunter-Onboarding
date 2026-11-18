@@ -1,6 +1,6 @@
 # Onboarding-only live preview
 
-Generated from [TrendHunter / Onboarding](https://github.com/ecastillo-productdesigner/TrendHunter/tree/d59b4ad26fd22a35ef85f18de8022552dcc87dad).
+Generated from [TrendHunter / Onboarding](https://github.com/ecastillo-productdesigner/TrendHunter/tree/9fb94521b39f6526c4997133fcc3d8a997ab4867).
 
 [Open the live preview](https://ecastillo-productdesigner.github.io/TrendHunter-Onboarding/) — demo password: `demo`.
 
